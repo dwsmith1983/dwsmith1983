@@ -5,5 +5,5 @@ However, I need to update my photo site but that might be a bit but you can
 still enjoy the current photos.
 
 * [Growing in Tech](www.growingintech.com)
-* [Online Resume](www.dustinsmith-resume.com)
+* [Online Resume](www.dustinsmith.info)
 * [Photography](www.dustinsmith.io)
