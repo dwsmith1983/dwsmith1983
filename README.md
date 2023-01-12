@@ -4,6 +4,6 @@ web pages related to tech, online resume, or hobby of taking photographs.
 However, I need to update my photo site but that might be a bit but you can 
 still enjoy the current photos.
 
-* [Growing in Tech](www.growingintech.com)
-* [Online Resume](www.dustinsmith.info)
-* [Photography](www.dustinsmith.io)
+* www.growingintech.com
+* www.dustinsmith.info
+* www.dustinsmith.io
