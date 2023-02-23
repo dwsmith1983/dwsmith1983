@@ -11,3 +11,6 @@ still enjoy the current photos.
 
 Feel free to connect with me on LinkedIn or contact me about any interesting
 opportunities.
+
+![Dustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwsmith1983&count_private=true&show_icons=true&theme=onedark&layout=compact) 
+[![Dustin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwsmith1983&show_icons=true&theme=onedark&layout=compact)](https://github.com/dwsmith1983/github-readme-stats)
