@@ -13,5 +13,5 @@ Feel free to connect with me on LinkedIn or contact me about any interesting
 opportunities.
 
 ![Dustin's GitHub stats](https://github-readme-stats-seven-liart-20.vercel.app/api?username=dwsmith1983&count_private=true&show_icons=true&theme=transparent&layout=compact) 
-[![Dustin's Top Langs](https://github-readme-stats-seven-liart-20.vercel.app/api/top-langs/?username=dwsmith1983&show_icons=true&theme=transparent&layout=compact)](https://github.com/dwsmith1983/github-readme-stats)
+[![Dustin's Top Langs](https://github-readme-stats-seven-liart-20.vercel.app/api/top-langs/?username=dwsmith1983&show_icons=true&theme=transparent&layout=compact&hide=HTML,JavaScript,CSS,C%2B%2B&count_private=true)](https://github.com/dwsmith1983/github-readme-stats)
 
