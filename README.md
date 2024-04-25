@@ -6,7 +6,6 @@ still enjoy the current photos.
 
 * www.growingintech.com
 * www.dustinsmith.info
-* www.dustinsmith.io
 
 Feel free to connect with me on LinkedIn or contact me about any interesting
 opportunities.
