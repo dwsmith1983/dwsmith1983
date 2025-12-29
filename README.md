@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Data+Engineer;PySpark+%7C+Scala+%7C+Databricks+%7C+AWS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Engineering+Director;Spark+%7C+Scala+%7C+Databricks+%7C+AWS)](https://git.io/typing-svg)
 
 ## Hey there! I'm Dustin
 
