@@ -6,8 +6,8 @@ Engineering Director specializing in SRE, Data Engineering, and MLOps. I build r
 
 - Currently leading SRE for Data & Analytics at Techcombank
 - Based in Ha Noi, Vietnam
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dustin-s-photo)
-- [![Website](https://img.shields.io/badge/Website-dustinsmith.info-FF5722?style=for-the-badge&logo=safari&logoColor=white)](https://www.dustinsmith.info)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dustin-s-photo)
+- [![Website](https://img.shields.io/badge/Website-dustinsmith.info-FF5722?style=flat&logo=safari&logoColor=white)](https://www.dustinsmith.info)
 
 ## Tech Stack
 
