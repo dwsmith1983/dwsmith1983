@@ -6,7 +6,8 @@ Engineering Director specializing in SRE, Data Engineering, and MLOps. I build r
 
 - Currently leading SRE for Data & Analytics at Techcombank
 - Based in Ha Noi, Vietnam
-- [dustinsmith.info](https://www.dustinsmith.info)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dustin-s-photo)
+- [![Website](https://img.shields.io/badge/Website-dustinsmith.info-FF5722?style=for-the-badge&logo=safari&logoColor=white)](https://www.dustinsmith.info)
 
 ## Tech Stack
 
@@ -36,6 +37,12 @@ Engineering Director specializing in SRE, Data Engineering, and MLOps. I build r
 **MLOps**
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+## Featured Projects
+
+[![Spark BestFit](https://github-readme-stats-seven-liart-20.vercel.app/api/pin/?username=dwsmith1983&repo=spark-bestfit&theme=transparent)](https://github.com/dwsmith1983/spark-bestfit)
+[![Spark Pipeline Framework](https://github-readme-stats-seven-liart-20.vercel.app/api/pin/?username=dwsmith1983&repo=spark-pipeline-framework&theme=transparent)](https://github.com/dwsmith1983/spark-pipeline-framework)
+[![Dataconf](https://github-readme-stats-seven-liart-20.vercel.app/api/pin/?username=zifeo&repo=dataconf&theme=transparent)](https://github.com/zifeo/dataconf)
 
 ## GitHub Stats
 
