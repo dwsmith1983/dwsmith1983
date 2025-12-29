@@ -47,12 +47,5 @@ Data Engineer with expertise in building scalable data pipelines using PySpark, 
 
 <p align="center">
   <img src="https://github-readme-stats-seven-liart-20.vercel.app/api?username=dwsmith1983&count_private=true&show_icons=true&theme=transparent" alt="Dustin's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwsmith1983&theme=transparent" alt="Dustin's GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-seven-liart-20.vercel.app/api/top-langs/?username=dwsmith1983&show_icons=true&theme=transparent&layout=compact&hide=HTML,JavaScript,CSS,C%2B%2B&count_private=true" alt="Dustin's Top Languages" />
 </p>
