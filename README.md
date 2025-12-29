@@ -4,7 +4,7 @@
 
 Engineering Director specializing in SRE, Data Engineering, and MLOps. I build reliable data platforms at scale, lead high-performing teams, and optimize cloud costs. Former Databricks Solutions Architect. Open source contributor.
 
-- urrently leading SRE for Data & Analytics at Techcombank
+- Currently leading SRE for Data & Analytics at Techcombank
 - Based in Ha Noi, Vietnam
 - [dustinsmith.info](https://www.dustinsmith.info)
 
