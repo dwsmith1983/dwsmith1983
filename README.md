@@ -38,15 +38,13 @@ Engineering Director specializing in SRE, Data Engineering, and MLOps. I build r
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-## Featured Projects
-
-[![Spark BestFit](https://github-readme-stats-seven-liart-20.vercel.app/api/pin/?username=dwsmith1983&repo=spark-bestfit&theme=transparent)](https://github.com/dwsmith1983/spark-bestfit)
-[![Spark Pipeline Framework](https://github-readme-stats-seven-liart-20.vercel.app/api/pin/?username=dwsmith1983&repo=spark-pipeline-framework&theme=transparent)](https://github.com/dwsmith1983/spark-pipeline-framework)
-[![Dataconf](https://github-readme-stats-seven-liart-20.vercel.app/api/pin/?username=zifeo&repo=dataconf&theme=transparent)](https://github.com/zifeo/dataconf)
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-seven-liart-20.vercel.app/api?username=dwsmith1983&count_private=true&show_icons=true&theme=transparent" alt="Dustin's GitHub stats" />
-  <img src="https://github-readme-stats-seven-liart-20.vercel.app/api/top-langs/?username=dwsmith1983&show_icons=true&theme=transparent&layout=compact&hide=HTML,JavaScript,CSS,C%2B%2B&count_private=true" alt="Dustin's Top Languages" />
+  <img src="https://raw.githubusercontent.com/dwsmith1983/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Dark" />
+  <img src="https://raw.githubusercontent.com/dwsmith1983/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Light" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dwsmith1983/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages Dark" />
+  <img src="https://raw.githubusercontent.com/dwsmith1983/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Top Languages Light" />
 </p>
