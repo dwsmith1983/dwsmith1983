@@ -37,6 +37,12 @@ Engineering Director specializing in SRE, Data Engineering, and MLOps. I build r
 **MLOps**
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![TFX](https://img.shields.io/badge/TFX-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+## Certifications
+
+[![Databricks](https://img.shields.io/badge/Databricks-14x%20Certified-FF3621?style=flat&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/dustinsmith881575/wallet)
+![GCP](https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ## GitHub Stats
 
