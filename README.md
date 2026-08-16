@@ -2,7 +2,7 @@
 
 ## About Me
 
-Engineering Director specializing in SRE, Data Engineering, and MLOps. I build reliable data platforms at scale, lead high-performing teams, and optimize cloud costs. Former Databricks Solutions Architect. Open source contributor.
+Engineering Director specializing in SRE, Data Engineering, and Infrastructure. I build reliable data platforms at scale, lead high-performing teams, and optimize cloud costs. Former Databricks Solutions Architect. Open source contributor.
 
 - Currently leading SRE for Data & Analytics at Techcombank
 - Based in Ha Noi, Viet Nam
