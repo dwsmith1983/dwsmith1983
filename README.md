@@ -48,8 +48,6 @@ Engineering Director specializing in SRE, Data Engineering, and Infrastructure. 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dwsmith1983/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Dark" />
-  <img src="https://raw.githubusercontent.com/dwsmith1983/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Light" />
-  <img src="https://raw.githubusercontent.com/dwsmith1983/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages Dark" />
-  <img src="https://raw.githubusercontent.com/dwsmith1983/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Top Languages Light" />
+  <img src="https://raw.githubusercontent.com/dwsmith1983/github-stats/master/generated/overview.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/dwsmith1983/github-stats/master/generated/languages.svg" alt="Top Languages" />
 </p>
